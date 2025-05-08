@@ -1,4 +1,4 @@
-# C library for handling dynamic strings in C language
+# C library for handling dynamic strings in C
 A shared library which provides a set of functions for handling dynamic strings in C.
 
 <h2>How to download?</h2>
